@@ -1,3 +1,5 @@
 node_modules
 .idea
-@legacy
+.DS_Store
+coverage
+dist

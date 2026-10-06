@@ -23,25 +23,7 @@
   ],
   "preloadedJs": [
     {
-      "path": "scripts/stop-watch.js"
-    },
-    {
-      "path": "scripts/sound-effects.js"
-    },
-    {
-      "path": "scripts/xapi-event-builder.js"
-    },
-    {
-      "path": "scripts/result-slide.js"
-    },
-    {
-      "path": "scripts/single-choice-alternative.js"
-    },
-    {
-      "path": "scripts/single-choice.js"
-    },
-    {
-      "path": "scripts/single-choice-set.js"
+      "path": "dist/single-choice-set.js"
     }
   ],
   "preloadedDependencies": [
@@ -51,12 +33,7 @@
       "minorVersion": 5
     },
     {
-      "machineName": "H5P.JoubelUI",
-      "majorVersion": 1,
-      "minorVersion": 3
-    },
-    {
-      "machineName": "H5P.Transition",
+      "machineName": "H5P.Components",
       "majorVersion": 1,
       "minorVersion": 0
     },
